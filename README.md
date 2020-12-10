@@ -10,9 +10,9 @@
 <br />
 <br />
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm currently working as an Insurance Agent. I recently found out about this amazing world of coding
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Fun with code!!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
