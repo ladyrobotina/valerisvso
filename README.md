@@ -1,8 +1,4 @@
 ### Hi there, I'm Valeria 👋
-
-<!--
-**valerisvso/valerisvso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm currently working as an Insurance Agent. I recently found out about this amazing world of coding.
 🔭 Fun with code!!!
 🌱 I’m currently learning everything 🤣
@@ -51,4 +47,9 @@ Languages and Tools:
 ⚡ Recent GitHub Activity
 <br />
 ⚡ GitHub Stats
+
+<!--
+**valerisvso/valerisvso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
