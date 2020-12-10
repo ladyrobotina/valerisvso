@@ -1,14 +1,5 @@
 ### Hi there, I'm Valeria 👋
 <br />
-## I'm currently working as an Insurance Agent. I recently found out about this amazing world of coding.
-- 🔭 Fun with code!!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and my first job
-- 🥅 2020 Goals: Full Stack Web Developer
-- ⚡ Fun fact: I love my cat 😺
-
-<br />
-<br />
 
 ## I'm currently working as an Insurance Agent. I recently found out about this amazing world of coding
 
