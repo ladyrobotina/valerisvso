@@ -14,9 +14,9 @@
 
 - 🔭 Fun with code!!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other content creators and my first job
+- 🥅 2020 Goals: Full Stack Web Developer
+- ⚡ Fun fact: I love my cat 😺
 
 Connect with me:
 
