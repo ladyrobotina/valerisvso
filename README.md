@@ -1,7 +1,7 @@
 ### Hi there, I'm Valeria 👋
 <br />
 
-## I'm currently working as an Insurance Agent. I recently found out about this amazing world of coding
+## Someday I'm going to work for Elon Musk!
 
 - 🔭 Fun with code!!!
 - 🌱 I’m currently learning everything 🤣
