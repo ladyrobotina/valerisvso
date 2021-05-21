@@ -1,14 +1,6 @@
 ### Hi there, I'm Valeria 👋
 <br />
 
-## Someday I'm going to work for Elon Musk!
-
-- 🔭 Fun with code!!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators and my first job
-- 🥅 2020 Goals: Full Stack Web Developer
-- ⚡ Fun fact: I love my cat 😺
-
 Connect with me:
 
 [<img align="left" alt="valerisvso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepenio]
