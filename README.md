@@ -2,7 +2,9 @@
 <br />
 
 - ❤ Fan of Web coding
-- 📚 Currently learning Python and Machine Learning
+- 📚 Currently learning Java
+- 💫 Ada Lovelace is my favorite Girl
+- 😻 Cat lover
 
 Connect with me:
 
